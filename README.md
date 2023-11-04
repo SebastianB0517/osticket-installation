@@ -21,8 +21,9 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 <h2>Installation Steps</h2>
 
 <p>
-<img src="![IIS](https://github.com/SebastianB0517/osticket-installation/assets/149266014/db8e0a10-8be9-442a-bb54-f2ba7a766d85)
-"/>
+![image](https://github.com/SebastianB0517/osticket-installation/assets/149266014/ecdfd444-be01-4d24-a7ca-6d3ac2121697)
+
+
 </p>
 <p>
 Start by downloading interntet information services and enabling all the features.
