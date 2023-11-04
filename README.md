@@ -20,13 +20,27 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 
 <h2>Installation Steps</h2>
 
+
+
 <p>
-![image](https://github.com/SebastianB0517/osticket-installation/assets/149266014/ecdfd444-be01-4d24-a7ca-6d3ac2121697)
+
 
 
 </p>
 <p>
 Start by downloading interntet information services and enabling all the features.
+  
+![image](https://github.com/SebastianB0517/osticket-installation/assets/149266014/a124cfbb-773a-4fb7-8489-d26e2c25f2b2)
+</p>
+<br />
+
+<p>
+</p>
+<p>
+Next, download all the needed files and programs to run osticket.
+
+ ![image](https://github.com/SebastianB0517/osticket-installation/assets/149266014/9040954c-1c7a-4e68-ba60-4da8223944bf)
+
 </p>
 <br />
 
@@ -34,14 +48,6 @@ Start by downloading interntet information services and enabling all the feature
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Next, create a database and install osticket. Finally create the admin login and start working!
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
