@@ -45,9 +45,12 @@ Next, download all the needed files and programs to run osticket.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next, create a database and install osticket. Finally create the admin login and start working!
+
+![image](https://github.com/SebastianB0517/osticket-installation/assets/149266014/8a78fcd0-7bd1-4903-91d3-ac0820ae088f)
+___________________________________________________________________________________________________________
+![ostix](https://github.com/SebastianB0517/osticket-installation/assets/149266014/f086ae54-6a14-4741-bdd9-8b2b24535fa6)
 
 <br />
