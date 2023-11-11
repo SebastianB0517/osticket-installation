@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Installation and Lifestyle Tickets</h1>
-This tutorial outlines the installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the installation of the open-source help desk ticketing system osTicket. Additionaly lifestyle tickets are shown and worked on.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -54,3 +54,4 @@ ________________________________________________________________________________
 ![ostix](https://github.com/SebastianB0517/osticket-installation/assets/149266014/f086ae54-6a14-4741-bdd9-8b2b24535fa6)
 
 <br />
+Login to the admin account and configure any features, MLAs, and other admins. Then, create a couple of example tickets that may be seen in the workforce.
