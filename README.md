@@ -12,6 +12,9 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 - Remote Desktop
 - Internet Information Services (IIS)
 
+<h2> Languages Used</h2>
+None
+
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (22H2)
